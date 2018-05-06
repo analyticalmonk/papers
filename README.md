@@ -3,3 +3,4 @@
 #### To-read
 - [Address Fraud: Monkey Typed Address Classification for
 e-Commerce Applications](http://sigir-ecom.weebly.com/uploads/1/0/2/9/102947274/paper_21.pdf)
+- [Convex optimization handbook](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
